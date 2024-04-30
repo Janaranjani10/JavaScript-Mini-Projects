@@ -1,0 +1,23 @@
+[
+    {
+        "fname": "banana",
+        "img": "banana.jpeg",
+        "content": "vitamin b6"
+    },
+    {
+        "fname": "apple",
+        "img": "apple.jpeg",
+        "content": "vitamin b6"
+    },
+    {
+        "fname": "orange",
+        "img": "orange.jpeg",
+        "content": "vitamin c"
+    },
+    {
+        "fname": "mango",
+        "img": "mango.jpeg",
+        "content": "vitamin a"
+    }
+
+]
